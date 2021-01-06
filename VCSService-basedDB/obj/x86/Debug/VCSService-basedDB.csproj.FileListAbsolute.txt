@@ -1,0 +1,12 @@
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\bin\Debug\library.mdf
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\bin\Debug\library_log.ldf
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\bin\Debug\VCSService-basedDB.exe.config
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\bin\Debug\VCSService-basedDB.exe
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\bin\Debug\VCSService-basedDB.pdb
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\obj\x86\Debug\VCSService_basedDB.Form1.resources
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\obj\x86\Debug\VCSService_basedDB.Properties.Resources.resources
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\obj\x86\Debug\VCSService-basedDB.exe
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSService-basedDB\VCSService-basedDB\obj\x86\Debug\VCSService-basedDB.pdb
